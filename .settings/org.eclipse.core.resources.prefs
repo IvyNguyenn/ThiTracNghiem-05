@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/vy/controller/CreateLopHoc_CTR.java=UTF-8
+encoding//src/com/vy/controller/DeleteThiSinh.java=UTF-8
+encoding//src/com/vy/controller/DsLopHoc_CTR.java=UTF-8
+encoding//src/com/vy/controller/DsThiSinh_CTR.java=UTF-8
+encoding//src/com/vy/controller/EditClass_CTR.java=UTF-8
+encoding//src/com/vy/controller/LoginServlet.java=UTF-8
+encoding//src/com/vy/controller/QuizServlet.java=UTF-8
+encoding//src/com/vy/controller/TestServlet.java=UTF-8
+encoding//src/com/vy/dao/LopHoc_DAO.java=UTF-8
